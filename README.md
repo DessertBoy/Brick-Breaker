@@ -1,5 +1,4 @@
-# Intro
+# Brick Breaker
 
-This is me adding on to the new branch to merge to the master
+A game a made just for fun and practice. Enjoy! :)
 
-This is me editing a repository 
